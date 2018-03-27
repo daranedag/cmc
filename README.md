@@ -5,6 +5,11 @@ Boceto Inicial
 
 1.- Index
  1.1 Servicios
+ 	1.1.1 Remuneraciones y leyes sociales
+ 	1.1.2 Declaraciones de impuestos
+ 	1.1.3 Auditorias tributarias
+ 	1.1.4 Auditorias financieras
+ 	1.1.5 Creacion de empresas
  1.2 Productos
  1.3 Quien soy
 
